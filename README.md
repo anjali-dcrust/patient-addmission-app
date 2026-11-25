@@ -2,8 +2,8 @@
 
 Hospital staff can add, view, search, filter, edit, discharge and delete admitted patients.
 
-**Live app:** https://YOUR-APP.vercel.app
-**Backend API:** https://YOUR-API.onrender.com/api/patients
+**Live app:** https://patient-addmission-app.vercel.app/
+**Backend API:** https://patient-api-e1gt.onrender.com//api/patients
 
 ## Tech stack
 - Frontend: React 18 + Vite (plain CSS, glassmorphism UI)
@@ -44,4 +44,20 @@ Backend: `SPRING_DATASOURCE_URL`, `SPRING_DATASOURCE_USERNAME`, `SPRING_DATASOUR
 Frontend: `VITE_API_URL`. No secrets are committed.
 
 ## Screenshots
-Add desktop, tablet and mobile screenshots to a `screenshots/` folder and link them here.
+### Desktop
+![Desktop view](screenshots/desktop-list.png)
+
+### Tablet and mobile
+<p>
+  <img src="screenshots/tablet-list.png" width="45%" alt="Tablet view" />
+  <img src="screenshots/mobile-list.png" width="25%" alt="Mobile view" />
+</p>
+
+### Add patient and validation
+<p>
+  <img src="screenshots/add-patient.png" width="45%" alt="Add patient form" />
+  <img src="screenshots/validation-errors.png" width="45%" alt="Validation errors" />
+</p>
+
+### Delete confirmation
+![Delete confirmation](screenshots/delete-confirm.png)
