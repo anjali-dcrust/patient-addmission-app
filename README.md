@@ -3,7 +3,7 @@
 Hospital staff can add, view, search, filter, edit, discharge and delete admitted patients.
 
 **Live app:** https://patient-addmission-app.vercel.app/
-**Backend API:** https://patient-api-e1gt.onrender.com//api/patients
+**Backend API:** https://patient-api-e1gt.onrender.com/api/patients
 
 ## Tech stack
 - Frontend: React 18 + Vite (plain CSS, glassmorphism UI)
